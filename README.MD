@@ -1,3 +1,3 @@
 # TPL VM
 
-The virtual machine for the TPL language.
+The virtual machine for the Minimum language.
