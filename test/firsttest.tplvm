@@ -1,0 +1,4 @@
+push i30
+push i12
+add
+hlt
